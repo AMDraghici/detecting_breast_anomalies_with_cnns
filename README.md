@@ -4,7 +4,7 @@ This repository contains the code which my colleague and I worked on to study th
 
 We processed, modelled, and drew inference using Python 3.6 and the packages Keras (built on Tensorflow), Sklearn, Numpy, Matplotlib, Seaborn, and Pandas.
 
-Our open source data came from two sources:
+Our data came from two open sources:
 
 - M. Heath, K. Bowyer, D. Kopans, R. Moore, and W. P. Kegelmeyer. The digital database for screening mammography. In Proceedings of the 5th inter- national workshop on digital mammography, pages 212{218. Medical Physics Publishing.
 
