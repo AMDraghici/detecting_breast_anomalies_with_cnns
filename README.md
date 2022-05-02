@@ -8,5 +8,5 @@ Our open source data came from two sources:
 
 - M. Heath, K. Bowyer, D. Kopans, R. Moore, and W. P. Kegelmeyer. The digital database for screening mammography. In Proceedings of the 5th inter- national workshop on digital mammography, pages 212{218. Medical Physics Publishing.
 
-- R. S. Lee, F. Gimenez, A. Hoogi, K. K. Miyake, M. Gorovoy, and D. L. Rubin. A curated mammography data set for use in computer-aided detection and diagnosis research. Scientic data, 4:170177, 2017. ISSN 2052-4463.
+- R. S. Lee, F. Gimenez, A. Hoogi, K. K. Miyake, M. Gorovoy, and D. L. Rubin. A curated mammography data set for use in computer-aided detection and diagnosis research. Scientific data, 4:170177, 2017. ISSN 2052-4463.
 
