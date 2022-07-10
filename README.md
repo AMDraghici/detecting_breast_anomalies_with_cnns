@@ -1,4 +1,4 @@
-# Detecting-Breast-Tissue-Anomalies-in-Mammograms-with-Convolutional-Neural-Networks
+# Detecting Breast Tissue Anomalies in Mammograms with Convolutional Neural Networks
 
 This repository contains the code which my colleague and I worked on to study the ability of convolutional neural networks to accurately detect anomalous tissue in mammograms. 
 
